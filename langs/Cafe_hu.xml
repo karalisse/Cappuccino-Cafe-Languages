@@ -161,28 +161,28 @@
 	<cookstep>
 		<text id="cookstep_bananasplit1" name="Fagylaltot hűteni" />
 		<text id="cookstep_bananasplit2" name="Banánt felvágni" />
-		<text id="cookstep_brigadeiro1" name="Melting chocolate" />
-		<text id="cookstep_brigadeiro2" name="Shaping brigadeiros" />
+		<text id="cookstep_brigadeiro1" name="Csokoládét melegíteni." />
+		<text id="cookstep_brigadeiro2" name="Brigadeirokat készíteni" />
 		<text id="cookstep_blackforestcherrycake1" name="Hozzávalókat összekeverni" />
 		<text id="cookstep_blackforestcherrycake2" name="Sütit sütni" />
-		<text id="cookstep_pizzasalad1" name="Making pizzas" />
-		<text id="cookstep_pizzasalad2" name="Making salads" />
-		<text id="cookstep_tripleomelette1" name="Mixing eggs strongly" />
-		<text id="cookstep_tripleomelette2" name="Folding everything" />
-		<text id="cookstep_chocolatewaffles1" name="Melting chocolate" />
-		<text id="cookstep_chocolatewaffles2" name="Covering waffles" />
-		<text id="cookstep_spanishomelette1" name="Mixing huevos" />
-		<text id="cookstep_spanishomelette2" name="Making the omelette bonito" />
-		<text id="cookstep_sausagepasta1" name="Boiling pasta" />
-		<text id="cookstep_sausagepasta2" name="Frying sausages" />
-		<text id="cookstep_applepie1" name="Building pies" />
-		<text id="cookstep_applepie2" name="Baking pies" />
-		<text id="cookstep_ramen1" name="Boiling pasta" />
-		<text id="cookstep_ramen2" name="Adding spices" />
-		<text id="cookstep_corncake1" name="Mixing ingredients" />
-		<text id="cookstep_corncake2" name="Baking cakes" />
-		<text id="cookstep_feijoada1" name="Prepping pork cuts" />
-		<text id="cookstep_feijoada2" name="Manifesting orange slices" />
+		<text id="cookstep_pizzasalad1" name="Pizzákat készíteni" />
+		<text id="cookstep_pizzasalad2" name="Salátát összekészíteni" />
+		<text id="cookstep_tripleomelette1" name="Összekeverni a tojásokat" />
+		<text id="cookstep_tripleomelette2" name="Hajtogatni" />
+		<text id="cookstep_chocolatewaffles1" name="Csokoládét melegíteni" />
+		<text id="cookstep_chocolatewaffles2" name="Gofrit leönteni" />
+		<text id="cookstep_spanishomelette1" name="Tojásokat elkészíteni" />
+		<text id="cookstep_spanishomelette2" name="Omlett bonito-t készíteni" />
+		<text id="cookstep_sausagepasta1" name="Tésztát főzni" />
+		<text id="cookstep_sausagepasta2" name="Kolbászt sütni" />
+		<text id="cookstep_applepie1" name="Pitét összeállítani" />
+		<text id="cookstep_applepie2" name="Pitét sütni" />
+		<text id="cookstep_ramen1" name="Tésztát főzni" />
+		<text id="cookstep_ramen2" name="Fűszerezni" />
+		<text id="cookstep_corncake1" name="Hozzávalókat összekeverni" />
+		<text id="cookstep_corncake2" name="Tortát sütni" />
+		<text id="cookstep_feijoada1" name="Húst előkészíteni" />
+		<text id="cookstep_feijoada2" name="Narancsdarabokat manifesztálni" />
 		<text id="cookstep_cheeseburger1" name="Darált húst sütni" />
 		<text id="cookstep_cheeseburger2" name="Hamburgert összeállítani" />
 		<text id="cookstep_cheesedish1" name="Sajtot tálalni" />
@@ -331,8 +331,8 @@
 		<text id="cookstep_whitechoccheesecake2" name="Sütit sütni" />
 		<text id="cookstep_whitechocmousse1" name="Csokoládét olvasztani" />
 		<text id="cookstep_whitechocmousse2" name="Krémet hűlni hagyni" />
-		<text id="cookstep_coxinha1" name="Mixing ingredients" />
-		<text id="cookstep_coxinha2" name="Frying coxinhas" />
+		<text id="cookstep_coxinha1" name="Hozzávalókat összekeverni" />
+		<text id="cookstep_coxinha2" name="Coxinha kisütése" />
 	</cookstep>
 	<coopmission>
 		<text id="coop_desc_long_1" name="Tartunk egy főzőtanfolyamot, hogy az ételeidet tökéletesíthesd. Részt veszel rajta?" />
@@ -848,7 +848,7 @@
 		<text id="wheeloffortunetooltip_line3" name="Egy játék ingyenes" />
 	</ingame_tooltips>
 	<ingredients>
-		<text id="ingredient_cookfest" name="Event Ingredients" />
+		<text id="ingredient_cookfest" name="Ünnepi hozzávaló" />
 		<text id="ingredient_apple" name="Alma" />
 		<text id="ingredient_bacon" name="Szalonna" />
 		<text id="ingredient_bakingmix" name="Tésztapor" />
@@ -946,56 +946,56 @@
 	<preparestep>
 		<text id="preparestep_bananasplit_banana" name="Banánt hámozni" />
 		<text id="preparestep_bananasplit_chocolate" name="Csokoládét darabolni" />
-		<text id="preparestep_brigadeiro_chocolate" name="Cut chocolate" />
-		<text id="preparestep_brigadeiro_cream" name="Mix cream" />
-		<text id="preparestep_brigadeiro_vanilla" name="Shave vanilla" />
+		<text id="preparestep_brigadeiro_chocolate" name="Csokoládét vágni" />
+		<text id="preparestep_brigadeiro_cream" name="Habot verni" />
+		<text id="preparestep_brigadeiro_vanilla" name="Vaníliát kivájni" />
 		<text id="preparestep_bananasplit_cream" name="Habot verni" />
 		<text id="preparestep_bananasplit_milk" name="Tejet kimérni" />
 		<text id="preparestep_bananasplit_sugar" name="Cukrot lemérni" />
 		<text id="preparestep_blackforestcherrycake_chocolate" name="Csokoládét reszelni" />
 		<text id="preparestep_blackforestcherrycake_cocktailcherry" name="Cseresznyét tisztítani" />
 		<text id="preparestep_blackforestcherrycake_cream" name="Habot verni" />
-		<text id="preparestep_pizzasalad_tomato" name="Cut tomatoes" />
-		<text id="preparestep_pizzasalad_onion" name="Cut onions" />
-		<text id="preparestep_pizzasalad_lettuce" name="Wash lettuce" />
-		<text id="preparestep_pizzasalad_cheese" name="Grate cheese" />
-		<text id="preparestep_pizzasalad_flour" name="Sift flour" />
-		<text id="preparestep_tripleomelette_eggs" name="Crack eggs strongly" />
-		<text id="preparestep_tripleomelette_chili" name="Make it spicy" />
-		<text id="preparestep_chocolatewaffles_flour" name="Measure flour" />
-		<text id="preparestep_chocolatewaffles_cream" name="Whip cream" />
-		<text id="preparestep_chocolatewaffles_eggs" name="Crack eggs softly" />
-		<text id="preparestep_chocolatewaffles_chocolate" name="Melt chocolate" />
-		<text id="preparestep_chocolatewaffles_vanilla" name="Add vanilla extract" />
-		<text id="preparestep_spanishomelette_potato" name="Peel potatoes" />
-		<text id="preparestep_spanishomelette_onion" name="Chop onions" />
-		<text id="preparestep_spanishomelette_eggs" name="Crack eggs in Spanish" />
-		<text id="preparestep_spanishomelette_parsley" name="Chop parsley" />
-		<text id="preparestep_sausagepasta_pasta" name="Boil pasta" />
-		<text id="preparestep_sausagepasta_sausages" name="Chop sausages" />
-		<text id="preparestep_sausagepasta_tomato" name="Make tomato sauce" />
-		<text id="preparestep_sausagepasta_coriander" name="Chop coriander" />
-		<text id="preparestep_applepie_cream" name="Whip cream" />
-		<text id="preparestep_applepie_eggs" name="Crack eggs elegantly" />
-		<text id="preparestep_applepie_flour" name="Measure flour" />
-		<text id="preparestep_applepie_apple" name="Think about apple economy" />
-		<text id="preparestep_applepie_cinnamon" name="Add cinnamon" />
-		<text id="preparestep_ramen_pasta" name="Boil pasta" />
-		<text id="preparestep_ramen_eggs" name="Boil eggs" />
-		<text id="preparestep_ramen_bacon" name="Chop bacon" />
-		<text id="preparestep_ramen_chili" name="Make it spicy" />
-		<text id="preparestep_corncake_sweetcorn" name="Make cornflakes" />
-		<text id="preparestep_corncake_butter" name="Melt butter" />
-		<text id="preparestep_corncake_eggs" name="Mix eggs" />
-		<text id="preparestep_corncake_milk" name="Add milk" />
-		<text id="preparestep_corncake_sugar" name="Mix sugar in the dough" />
-		<text id="preparestep_corncake_cinnamon" name="Add cinnamon" />
-		<text id="preparestep_feijoada_beans" name="Boil beans" />
-		<text id="preparestep_feijoada_bacon" name="Chop bacon chunks" />
-		<text id="preparestep_feijoada_sausages" name="Cut sausages" />
-		<text id="preparestep_feijoada_onion" name="Chop onions" />
-		<text id="preparestep_feijoada_garlic" name="Toss garlic in" />
-		<text id="preparestep_feijoada_coriander" name="Add coriander" />
+		<text id="preparestep_pizzasalad_tomato" name="Paradicsomot vágni" />
+		<text id="preparestep_pizzasalad_onion" name="Hagymát vágni" />
+		<text id="preparestep_pizzasalad_lettuce" name="Salátát mosni" />
+		<text id="preparestep_pizzasalad_cheese" name="Sajtot reszelni" />
+		<text id="preparestep_pizzasalad_flour" name="Lisztet szitáni" />
+		<text id="preparestep_tripleomelette_eggs" name="Tojásokat feltörni" />
+		<text id="preparestep_tripleomelette_chili" name="Chilivel megáldani" />
+		<text id="preparestep_chocolatewaffles_flour" name="Lisztet kimérni" />
+		<text id="preparestep_chocolatewaffles_cream" name="Habot felverni" />
+		<text id="preparestep_chocolatewaffles_eggs" name="Óvatosan tojást törni" />
+		<text id="preparestep_chocolatewaffles_chocolate" name="Csokoládét melegíteni" />
+		<text id="preparestep_chocolatewaffles_vanilla" name="Vanília kivonatot hozzáadni" />
+		<text id="preparestep_spanishomelette_potato" name="Krumplit hámozni" />
+		<text id="preparestep_spanishomelette_onion" name="Hagymát vágni" />
+		<text id="preparestep_spanishomelette_eggs" name="Spanyolosan tojást törni" />
+		<text id="preparestep_spanishomelette_parsley" name="Petrezselymet vágni" />
+		<text id="preparestep_sausagepasta_pasta" name="Tésztát főzni" />
+		<text id="preparestep_sausagepasta_sausages" name="Kolbászt vágni" />
+		<text id="preparestep_sausagepasta_tomato" name="Paradicsompürét készíteni" />
+		<text id="preparestep_sausagepasta_coriander" name="Koriandert vágni" />
+		<text id="preparestep_applepie_cream" name="Habot verni" />
+		<text id="preparestep_applepie_eggs" name="Elegánsan tojást törni" />
+		<text id="preparestep_applepie_flour" name="Lisztet mérni" />
+		<text id="preparestep_applepie_apple" name="Almagazdaságról gondolkodni" />
+		<text id="preparestep_applepie_cinnamon" name="Fahéjat szórni" />
+		<text id="preparestep_ramen_pasta" name="Tésztát főzni" />
+		<text id="preparestep_ramen_eggs" name="Tojást főzni" />
+		<text id="preparestep_ramen_bacon" name="Bacont vágni" />
+		<text id="preparestep_ramen_chili" name="Fűszerezni" />
+		<text id="preparestep_corncake_sweetcorn" name="Kukoricapelyhet készíteni" />
+		<text id="preparestep_corncake_butter" name="Vajat olvasztani" />
+		<text id="preparestep_corncake_eggs" name="Tojást verni" />
+		<text id="preparestep_corncake_milk" name="Tejet hozzáadni" />
+		<text id="preparestep_corncake_sugar" name="Cukrot tésztába keverni" />
+		<text id="preparestep_corncake_cinnamon" name="Fahéjat hozzáadni" />
+		<text id="preparestep_feijoada_beans" name="Babot főzni" />
+		<text id="preparestep_feijoada_bacon" name="Bacont darabokra vágni" />
+		<text id="preparestep_feijoada_sausages" name="Kolbászt vágni" />
+		<text id="preparestep_feijoada_onion" name="Hagymát vágni" />
+		<text id="preparestep_feijoada_garlic" name="Fokhagymát belekeverni" />
+		<text id="preparestep_feijoada_coriander" name="Koriandert hozzáadni" />
 		<text id="preparestep_blackforestcherrycake_flour" name="Lisztet szitálni" />
 		<text id="preparestep_cheeseburger_cheese" name="Sajtot felvágni" />
 		<text id="preparestep_cheeseburger_flour" name="Lisztet szitálni" />
@@ -1165,7 +1165,7 @@
 		<text id="preparestep_porkroastwithcrackling_onion" name="Hagymát vágni" />
 		<text id="preparestep_potatosalad_cucumber" name="Uborkát szeletelni" />
 		<text id="preparestep_potatosalad_oil" name="Olajat felverni" />
-		<text id="preparestep_pizza_sausages" name="Slice sausages" />
+		<text id="preparestep_pizza_sausages" name="Kolbászt felvágni" />
 		<text id="preparestep_potatosalad_potato" name="Krumplit hámozni" />
 		<text id="preparestep_redberrycompote_cherries" name="Cseresznyét tisztítani" />
 		<text id="preparestep_redberrycompote_rhubarb" name="Rebarbarát tisztítani" />
@@ -1266,17 +1266,17 @@
 		<text id="preparestep_whitechocmousse_cream" name="Habot verni" />
 		<text id="preparestep_whitechocmousse_eggs" name="Tojást feltörni" />
 		<text id="preparestep_whitechocmousse_whitechocolat" name="Csokoládét olvasztani" />
-		<text id="preparestep_coxinha_flour" name="Spread flour" />
-		<text id="preparestep_coxinha_chicken" name="Shred chicken" />
-		<text id="preparestep_coxinha_onion" name="Chop onions" />
-		<text id="preparestep_coxinha_cream" name="Make cream cheese" />
-		<text id="preparestep_coxinha_oil" name="Heat oil" />
-		<text id="preparestep_coxinha_coriander" name="Chop coriander" />
+		<text id="preparestep_coxinha_flour" name="Lisztet szétteríteni" />
+		<text id="preparestep_coxinha_chicken" name="Csirkét darabokra szedni" />
+		<text id="preparestep_coxinha_onion" name="Hagymát vágni" />
+		<text id="preparestep_coxinha_cream" name="Krémsajtot készíteni" />
+		<text id="preparestep_coxinha_oil" name="Olajat melegíteni" />
+		<text id="preparestep_coxinha_coriander" name="Koriandert vágni" />
 	</preparestep>
 	<preparestep_fancy>
 		<text id="preparestep_bananasplit_vanilla" name="Vanília belsejét kikapargatni" />
 		<text id="preparestep_blackforestcherrycake_vanilla" name="Vaníliát kivájni" />
-		<text id="preparestep_pizzasalad_chili" name="Chop chili" />
+		<text id="preparestep_pizzasalad_chili" name="CChilit felvágni" />
 		<text id="preparestep_cheeseburger_chili" name="Chilit felvágni" />
 		<text id="preparestep_cheesedish_parsley" name="Petrezselymet felvágni" />
 		<text id="preparestep_cheesefondue_chili" name="Chilit felvágni" />
@@ -1357,14 +1357,14 @@
 		<text id="recipe_bananasplit" name="Banánhajó" />
 		<text id="recipe_brigadeiro" name="Brigadeiro" />
 		<text id="recipe_beefstew" name="Pörkölt" />
-		<text id="recipe_pizzasalad" name="Pizza with Salad" />
-		<text id="recipe_tripleomelette" name="Triple Omelette" />
-		<text id="recipe_chocolatewaffles" name="Chocolate Waffles" />
-		<text id="recipe_spanishomelette" name="Spanish Omelette" />
-		<text id="recipe_sausagepasta" name="Sausage Spaghetti" />
-		<text id="recipe_applepie" name="Apple Pie" />
-		<text id="recipe_ramen" name="Ramen" />
-		<text id="recipe_corncake" name="Corn Cake" />
+		<text id="recipe_pizzasalad" name="Pizza salátával" />
+		<text id="recipe_tripleomelette" name="Tripla omlett" />
+		<text id="recipe_chocolatewaffles" name="Csokoládés gofri" />
+		<text id="recipe_spanishomelette" name="Spanyol omlett" />
+		<text id="recipe_sausagepasta" name="Kolbászos tészta" />
+		<text id="recipe_applepie" name="Almás pite" />
+		<text id="recipe_ramen" name="Rámen" />
+		<text id="recipe_corncake" name="Kukoricatorta" />
 		<text id="recipe_feijoada" name="Feijoada" />
 		<text id="recipe_blackforestcherrycake" name="Feketeerdő torta" />
 		<text id="recipe_cheeseburger" name="Sajtos hamburger" />
@@ -1387,17 +1387,17 @@
 		<text id="recipe_duckalorange" name="Narancsos kacsa" />
 		<text id="recipe_easterdish" name="Húsvéti tál" />
 		<text id="recipe_englishbreakfast" name="Angol reggeli" />
-		<text id="recipe_fishandchips" name="Fish&apos;n&apos;Chips" />
+		<text id="recipe_fishandchips" name="Fish n chips" />
 		<text id="recipe_friedpotatoes" name="Sült krumpli" />
 		<text id="recipe_fruitpudding" name="Gyümölcskenyér" />
 		<text id="recipe_fruitsalad" name="Gyümölcssaláta" />
 		<text id="recipe_greensalad" name="Kerti saláta" />
-		<text id="recipe_gumbo" name="Gumbo" />
+		<text id="recipe_gumbo" name="Gumbó" />
 		<text id="recipe_hamburger" name="Hamburger" />
 		<text id="recipe_hotcherrywaffles" name="Forró cseresznyés ostya" />
 		<text id="recipe_jamspongepudding" name="Édes szirupos felfújt" />
 		<text id="recipe_lasagne" name="Lasagne" />
-		<text id="recipe_macncheese" name="Mac&apos;n&apos;Cheese" />
+		<text id="recipe_macncheese" name="Mac n cheese" />
 		<text id="recipe_maplepancakes" name="Palacsinta juharsziruppal" />
 		<text id="recipe_marblecake" name="Kuglóf" />
 		<text id="recipe_mexicansalad" name="Mexikói saláta" />
@@ -1410,8 +1410,8 @@
 		<text id="recipe_onionsoup" name="Sült hagymaleves" />
 		<text id="recipe_peasoup" name="Borsóleves" />
 		<text id="recipe_pizza" name="Pizza" />
-		<text id="recipe_pizzahawaii" name="Pizza Hawaii" />
-		<text id="recipe_pizzatonno" name="Pizza Tonno" />
+		<text id="recipe_pizzahawaii" name="Hawaii pizza" />
+		<text id="recipe_pizzatonno" name="Tonhalas pizza" />
 		<text id="recipe_porkroastwithcrackling" name="Ropogós sült" />
 		<text id="recipe_potatosalad" name="Krumplisaláta" />
 		<text id="recipe_redberrycompote" name="Vöröskása" />
